@@ -1,12 +1,12 @@
-# ✒️ Desafío: Mediante un sorteo encuentra a tu amigo secreto
-Este proyecto es una asignación de Alura Latam. Brindo la maquetación de HTML5,CSS3
+# ✒️ Desafío: Realizar un sorteo para encontrar tu amigo secreto
+Este proyecto es una asignación de Alura Latam. Me porporcionaron la maquetación de HTML5,CSS3
 
 ## Aprendizaje 🚀
 Al trabajar este proyecto me enfoqué en la lógica de programación de Java
 
 De ese modo:
-* Comprendí a aplicar los distintos tipos de variables, crear funciones y listas. Además para optimizar código 
-cree bucles
+* Logré aplicar los distintos tipos de variables, crear funciones y listas. Además optimice código 
+a traves de bucles
 
 ## Construido con 🛠️
 * HTML5
